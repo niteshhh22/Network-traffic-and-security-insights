@@ -10,10 +10,9 @@ The main goal of this project is to analyze network traffic logs and find securi
 * Threat labels
 * Protocol usage
 * Network activity patterns
-
 This project helps in understanding how network security data can be analyzed using Python.
 
-# 🛠️ Technologies Used
+🛠️ Technologies Used
 * Python
 * Pandas
 * Matplotlib
@@ -21,7 +20,6 @@ This project helps in understanding how network security data can be analyzed us
 * Jupyter Notebook
 
 📂 Dataset Used
-
 The dataset used in this project is:
 `logs.csv`
 
